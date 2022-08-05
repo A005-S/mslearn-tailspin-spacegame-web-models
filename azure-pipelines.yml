@@ -1,5 +1,4 @@
-pool:
-  vmImage: 'ubuntu-20.04'
+pool: 'MyTestAgent'
 
 variables:
   buildConfiguration: 'Release'
