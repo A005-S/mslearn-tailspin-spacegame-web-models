@@ -1,4 +1,4 @@
-pool: 'MyTestAgenet'
+pool: 'MyTestAgent'
 
 variables:
   buildConfiguration: 'Release'
